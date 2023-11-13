@@ -1,0 +1,13 @@
+.header{
+    min-width: 100vw;
+    min-height: 30vh;
+    width: 100vw;
+    height: 30vh;
+display: block;
+}
+.header-img{
+    min-width: 100vw;
+    min-height: 30vh;
+    width: 100vw;
+    height: 30vh;
+}

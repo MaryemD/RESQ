@@ -1,0 +1,14 @@
+
+body{display: none;}
+
+@media only screen and (max-width: 450px) and (max-height: 1000px) {
+    body{display: block;
+        margin: 0;
+        padding: 0;
+        font-family: 'Urbanist', sans-serif;
+      }
+
+
+}
+
+

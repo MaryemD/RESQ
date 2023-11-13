@@ -1,0 +1,52 @@
+.btn-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 40vh;
+    gap: 6vh;
+
+}
+.btn-container Button{
+    width: 83vw;
+    height: 7vh;
+    border-radius: 8vw;
+    border: 2px solid #F66F6F;
+    background-color: white;
+    font-family: Urbanist;
+    font-weight: bolder;
+    font-size:20px;
+    color: #F66F6F;
+}
+.full-page{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+.Emergency-call{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+
+}
+.question{
+    margin-top: 7vh;
+    margin-left: 2vw;
+    font-family: Urbanist;
+    font-weight: 1000;
+    font-size:22px;
+    color: rgba(238, 73, 77, 1);
+
+}
+.description{
+    font-family: Urbanist;
+    font-weight: 1000;
+    font-size:20px;
+    color: #505050;
+    margin-top: 2vh;
+    margin-bottom: 10vh;
+    margin-left: 2vw;
+
+}
